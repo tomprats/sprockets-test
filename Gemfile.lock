@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/tomprats/sprockets-cjsx.git
-  revision: 018a577985c49db0b873e13a2713f5f7b4fba864
-  branch: sprockets-test-alt
+  revision: 015c4e2974be444d48ba5ccea912dbe5d2281244
+  branch: sprockets-test-coffee
   specs:
     sprockets-cjsx (0.0.3)
       coffee-react

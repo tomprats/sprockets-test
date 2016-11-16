@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sprockets-cjsx', github: 'tomprats/sprockets-cjsx', branch: 'sprockets-test-alt'
+gem 'sprockets-cjsx', github: 'tomprats/sprockets-cjsx', branch: 'sprockets-test-coffee'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
